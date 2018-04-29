@@ -32,9 +32,9 @@ $ python main.py --experiment_name=qa --mode=show_examples
 
 
 # Visualizing Loss and EM/F1 score during training or finished training
-
+```diff
 tensorboard --logdir=. --port=5678
-
+``````
 ```diff
 + this text is highlighted in green
 - this text is highlighted in red
