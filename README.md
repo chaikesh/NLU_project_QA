@@ -1,4 +1,7 @@
-# cs224n-win18-squad
-Code for the Default Final Project (SQuAD) for [CS224n](http://web.stanford.edu/class/cs224n/), Winter 2018
+# Question Answering 
 
-Note: this code is adapted in part from the [Neural Language Correction](https://github.com/stanfordmlgroup/nlc/) code by the Stanford Machine Learning Group.
+# Setup Environment 
+1. Make sure you have Anaconda installed in your PC and Environment is set for Anaconda
+2. Now run in terminal 
+>>
+
