@@ -2,11 +2,8 @@
 
 # Setup Environment 
 
-1. Make sure you have Anaconda installed in your PC and Environment is set for Anaconda
+1. Make sure you have Anaconda installed in your PC and Environment is set for Anaconda and make requirement.sh executable. Now run in terminal 
 
-```diff
-make requirement.sh executable. Now run in terminal 
-```
 
 ```diff
 cd [Folder where you have downloaded git repositry]
