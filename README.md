@@ -15,9 +15,9 @@ $ ./get_started.sh
 Above command will create the new conda environment "squad". and download the squad datset and GLOVE word2vec embedding matrix data. Also, It will download tensorflow=1.4.1 and other useful packages in this environemnt and data folder
 
 # Run Train
-'''
+
 $ source activate squad
-'''
+
 $ cd [extracted_Folder]/code/
 
 $ python main.py --experiment_name=qa --mode=train
@@ -35,3 +35,7 @@ $ python main.py --experiment_name=qa --mode=show_examples
 
 tensorboard --logdir=. --port=5678
 
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
